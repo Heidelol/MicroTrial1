@@ -1,0 +1,32 @@
+#main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+}
+
+#img-div{
+    margin: auto;
+    justify-items: center;
+}
+
+#img-div p {
+    justify-items: center;
+    
+    
+}
+
+#sec{
+    display: flex;
+    background-color: lightgrey;
+}
+
+#tribute-info{
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+    
+}
